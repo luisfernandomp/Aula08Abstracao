@@ -1,0 +1,13 @@
+C:\Users\Luiz Fernando\Documents\abstracionProject\obj\Debug\netcoreapp3.1\abstracionProject.csprojAssemblyReference.cache
+C:\Users\Luiz Fernando\Documents\abstracionProject\obj\Debug\netcoreapp3.1\abstracionProject.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Fernando\Documents\abstracionProject\obj\Debug\netcoreapp3.1\abstracionProject.AssemblyInfoInputs.cache
+C:\Users\Luiz Fernando\Documents\abstracionProject\obj\Debug\netcoreapp3.1\abstracionProject.AssemblyInfo.cs
+C:\Users\Luiz Fernando\Documents\abstracionProject\bin\Debug\netcoreapp3.1\abstracionProject.exe
+C:\Users\Luiz Fernando\Documents\abstracionProject\bin\Debug\netcoreapp3.1\abstracionProject.deps.json
+C:\Users\Luiz Fernando\Documents\abstracionProject\bin\Debug\netcoreapp3.1\abstracionProject.runtimeconfig.json
+C:\Users\Luiz Fernando\Documents\abstracionProject\bin\Debug\netcoreapp3.1\abstracionProject.runtimeconfig.dev.json
+C:\Users\Luiz Fernando\Documents\abstracionProject\bin\Debug\netcoreapp3.1\abstracionProject.dll
+C:\Users\Luiz Fernando\Documents\abstracionProject\bin\Debug\netcoreapp3.1\abstracionProject.pdb
+C:\Users\Luiz Fernando\Documents\abstracionProject\obj\Debug\netcoreapp3.1\abstracionProject.dll
+C:\Users\Luiz Fernando\Documents\abstracionProject\obj\Debug\netcoreapp3.1\abstracionProject.pdb
+C:\Users\Luiz Fernando\Documents\abstracionProject\obj\Debug\netcoreapp3.1\abstracionProject.genruntimeconfig.cache
